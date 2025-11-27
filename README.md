@@ -70,9 +70,8 @@ You can find the evaluation results in the output of the `.fit()` and prediction
 
 ---
 
-## 🚀 How to Run
+**Author:** Geraldo Augusta
 
-1. Install dependencies:
-
-```bash
-pip install -r requirements.txt
+**Email:** geraldonyoman14@gmail.com  
+**LinkedIn:** https://linkedin.com/in/geraldoaugusta  
+**GitHub:** https://github.com/geraldoaugusta
